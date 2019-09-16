@@ -4,7 +4,6 @@ date: 2019-09-16T04:43:17+00:00
 type: blog
 author: Sandhya Manikandan
 hero: https://unsplash.com/photos/5fNmWej4tAA
-draft: true
 
 ---
 Insurance is the common lingo nowadays especially for two wheelers, given the recent regulations. We all have the common knowledge that insurance helps us to cover the financial losses in case of any untoward happening in our lives like accidents, theft and so on.
