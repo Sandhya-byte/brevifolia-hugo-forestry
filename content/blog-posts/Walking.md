@@ -13,7 +13,7 @@ But the question **what is insurance** kept going on a loop in my mind? So, this
 
 As per the dictionary and many other websites, Insurance is legal document that binds an insurance company to cover the financial losses arising from any accidents if (pay attention here) the person pays the premium amount correctly.
 
-[5fNmWej4tAA](https://unsplash.com/photos/5fNmWej4tAA "5fNmWej4tAA")
+![Two people sitting before their laptops and calculating their insurance premium](/uploads/helloquence-5fNmWej4tAA-unsplash.jpg "Insurance")
 
 ## Now, as we have established what is insurance is, let us the see about the players involved!
 
@@ -62,3 +62,9 @@ The next important **type of insurance** would be the health insurance. As now t
 **Automobile Insurance:**
 
 Popularly known as the car and bike insurance, this insurance is now fast becoming the most favored insurance, given the recent changes. It gives protection against accidents by covering or reimbursing the amount. Sometimes it compensates for natural calamities as well and can help in paying for the damages caused by you to other vehicles.
+
+Insurance policies are now available both offline and online with many agents and websites offering them at competitive prices. But before that, ensure to research well and then choose.
+
+Now it is time for my signature goodbye,
+
+**_Namaste, Au Revoir, Sayonara and a simple Vanakkam to my readers out there where ever you are and whoever you are._**
