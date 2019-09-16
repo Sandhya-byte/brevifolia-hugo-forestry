@@ -3,7 +3,7 @@ title: What is Insurance?
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
 author: Sandhya Manikandan
-hero: https://unsplash.com/photos/5fNmWej4tAA
+hero: ''
 draft: true
 
 ---
@@ -13,13 +13,15 @@ But the question **what is insurance** kept going on a loop in my mind? So, this
 
 As per the dictionary and many other websites, Insurance is legal document that binds an insurance company to cover the financial losses arising from any accidents if (pay attention here) the person pays the premium amount correctly.
 
+[5fNmWej4tAA](https://unsplash.com/photos/5fNmWej4tAA "5fNmWej4tAA")
+
 ## Now, as we have established what is insurance is, let us the see about the players involved!
 
 The scene of Act One has three characters:
 
-*  The insurance policy,
+* The insurance policy,
 * The insurer and
-*  The insured.
+* The insured.
 
 The insurance policy is the legal document that holds all the terms and conditions of the contract. It also includes the circumstances under which the financial settlement would be paid to the insurer or their nominees.
 
@@ -51,7 +53,7 @@ One of the popular **type of insurance,**this insurance is the first of its kind
 >
 > Source: Wikipedia
 
-Well the term is self explanatory, life insurance insures the insured's life. This insurance is important if you are the sole breadwinner of the family. 
+Well the term is self explanatory, life insurance insures the insured's life. This insurance is important if you are the sole breadwinner of the family.
 
 **Health Insurance:**
 
