@@ -50,3 +50,5 @@ One of the popular **type of insurance,**this insurance is the first of its kind
 > The **first company** to offer life **insurance** was the Amicable Society for a Perpetual Assurance Office, founded in London in 1706 by William Talbot and Sir Thomas Allen.
 >
 > Source: Wikipedia
+
+Well the term is self explanatory, life insurance insures the insured's life. This insurance is important if you are the sole breadwinner of the family. 
