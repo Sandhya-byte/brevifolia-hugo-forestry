@@ -52,3 +52,11 @@ One of the popular **type of insurance,**this insurance is the first of its kind
 > Source: Wikipedia
 
 Well the term is self explanatory, life insurance insures the insured's life. This insurance is important if you are the sole breadwinner of the family. 
+
+**Health Insurance:**
+
+The next important **type of insurance** would be the health insurance. As now the medical costs are now on a rise, this insurance will help in covering the costs of hefty medical bills.
+
+**Automobile Insurance:**
+
+Popularly known as the car and bike insurance, this insurance is now fast becoming the most favored insurance, given the recent changes. It gives protection against accidents by covering or reimbursing the amount. Sometimes it compensates for natural calamities as well and can help in paying for the damages caused by you to other vehicles.
