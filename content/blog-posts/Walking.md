@@ -42,3 +42,11 @@ Furthermore, any person is free to approach any insurance provider, they feel to
 Well, when looking at the **type of insurance** we require, there are so many kinds prompting us to reach out an oxygen mask (beware, even that comes under insurance)
 
 Here I have listed out the most popular ones:
+
+**Life Insurance:**
+
+One of the popular **type of insurance,**this insurance is the first of its kind to be offered in the early 18th century. Here is a little history of life insurance
+
+> The **first company** to offer life **insurance** was the Amicable Society for a Perpetual Assurance Office, founded in London in 1706 by William Talbot and Sir Thomas Allen.
+>
+> Source: Wikipedia
