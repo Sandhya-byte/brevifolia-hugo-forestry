@@ -1,22 +1,44 @@
 ---
-title: An Essay on Walking
+title: What is Insurance?
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
-author: Henry Thoreau
-hero: "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+author: Sandhya Manikandan
+hero: ''
 draft: true
 
 ---
-Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.
+Insurance is the common lingo nowadays especially for two wheelers, given the recent regulations. We all have the common knowledge that insurance helps us to cover the financial losses in case of any untoward happening in our lives like accidents, theft and so on.
 
-No doubt temperament, and, above all, age, have a good deal to do with it. As a man grows older, his ability to sit still and follow indoor occupations increases. He grows vespertinal in his habits as the evening of life approaches, till at last he comes forth only just before sundown, and gets all the walk that he requires in half an hour.
+But the question **what is insurance** kept going on a loop in my mind? So, this post is inspired by that thought.
 
-But the walking of which I speak has nothing in it akin to taking exercise, as it is called, as the sick take medicine at stated hours,--as the swinging of dumb-bells or chairs; but is itself the enterprise and adventure of the day. If you would get exercise, go in search of the springs of life. Think of a man's swinging dumb-bells for his health, when those springs are bubbling up in far-off pastures unsought by him!
+As per the dictionary and many other websites, Insurance is legal document that binds an insurance company to cover the financial losses arising from any accidents if (pay attention here) the person pays the premium amount correctly.
 
-![](/images/kunj-parekh-H69EgivmCjE-unsplash.jpg)
+## Now, as we have established what is insurance is, let us the see about the players involved!
 
-Moreover, you must walk like a camel, which is said to be the only beast which ruminates when walking. When a traveller asked Wordsworth's servant to show him her master's study, she answered, "Here is his library, but his study is out of doors.
+The scene of Act One has three characters:
 
-Perhaps we should be more susceptible to some influences important to our intellectual and moral growth, if the sun had shone and the wind blown on us a little less; and no doubt it is a nice matter to proportion rightly the thick and thin skin. But methinks that is a scurf that will fall off fast enough,--that the natural remedy is to be found in the proportion which the night bears to the day, the winter to the summer, thought to experience. There will be so much the more air and sunshine in our thoughts. The callous palms of the laborer are conversant with finer tissues of self-respect and heroism, whose touch thrills the heart, than the languid fingers of idleness. That is mere sentimentality that lies abed by day and thinks itself white, far from the tan and callus of experience.
+*  The insurance policy,
+* The insurer and
+*  The insured.
 
-When we walk, we naturally go to the fields and woods: what would become of us, if we walked only in a garden or a mall? Even some sects of philosophers have felt the necessity of importing the woods to themselves, since they did not go to the woods. "They planted groves and walks of Platanes," where they took _subdiales ambulationes_ in porticos open to the air. Of course it is of no use to direct our steps to the woods, if they do not carry us thither. I am alarmed when it happens that I have walked a mile into the woods bodily, without getting there in spirit. In my afternoon walk I would fain forget all my morning occupations and my obligations to society. But it sometimes happens that I cannot easily shake off the village. The thought of some work will run in my head, and I am not where my body is,--I am out of my senses. In my walks I would fain return to my senses.
+The insurance policy is the legal document that holds all the terms and conditions of the contract. It also includes the circumstances under which the financial settlement would be paid to the insurer or their nominees.
+
+The insurer is the company that agrees to compensate in the event of an unfortunate happening.
+
+The insured is the person who enters into the contract with the insurance company.
+
+Next is the question is the most obvious one:
+
+# How does insurance work?
+
+As insurance policy is a contract that helps you protect you and your family in case of accidents. However, if you notice we see that the insurance paid towards the insurance policy is quite less even when the amount insured is huge.
+
+That is because, not every insured party claims their damages(they do live a hearty and healthy life, so no insurance).
+
+Furthermore, any person is free to approach any insurance provider, they feel to be the best in the market for insurance. This principle applies inversely to insurance companies, because they filter out their applicants. In a way, you can compare to the process of seeking admission for your kid at school. Oh, the joys of parenting!
+
+## Next in the series would be the type of insurance available in the market:
+
+Well, when looking at the **type of insurance** we require, there are so many kinds prompting us to reach out an oxygen mask (beware, even that comes under insurance)
+
+Here I have listed out the most popular ones
