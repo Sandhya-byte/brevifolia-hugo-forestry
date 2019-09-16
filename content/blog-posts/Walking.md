@@ -3,7 +3,7 @@ title: What is Insurance?
 date: 2019-07-11T20:11:17.000+00:00
 type: blog
 author: Sandhya Manikandan
-hero: ''
+hero: https://unsplash.com/photos/5fNmWej4tAA
 draft: true
 
 ---
@@ -41,4 +41,4 @@ Furthermore, any person is free to approach any insurance provider, they feel to
 
 Well, when looking at the **type of insurance** we require, there are so many kinds prompting us to reach out an oxygen mask (beware, even that comes under insurance)
 
-Here I have listed out the most popular ones
+Here I have listed out the most popular ones:
