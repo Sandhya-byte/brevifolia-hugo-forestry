@@ -49,9 +49,9 @@ Here I have listed out the most popular ones:
 
 One of the popular **type of insurance,**this insurance is the first of its kind to be offered in the early 18th century. Here is a little history of life insurance
 
-> The **first company** to offer life **insurance** was the Amicable Society for a Perpetual Assurance Office, founded in London in 1706 by William Talbot and Sir Thomas Allen.
+> **_The first company to offer life insurance was the Amicable Society for a Perpetual Assurance Office, founded in London in 1706 by William Talbot and Sir Thomas Allen._**
 >
-> Source: Wikipedia
+> **Source: Wikipedia**
 
 Well the term is self explanatory, life insurance insures the insured's life. This insurance is important if you are the sole breadwinner of the family.
 
